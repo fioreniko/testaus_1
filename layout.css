@@ -1,0 +1,17 @@
+html {
+    font-size: 62.5%;/*62,5% x 16px = 10px*/
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 1rem;
+}
+h1, p, figure {
+    margin-block-end: 1rem;
+    font-size: 2.4rem; /*2,4 x 10 px= 24 px*/
+}
+h1 {
+    font-size: 1.6rem; /*1,6 x 10 px= 16 px*/
+}
+figure img {
+    max-width: 100; /*kuva responsiiviseksi */
+}
